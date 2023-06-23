@@ -237,6 +237,7 @@ if (!word_solved) {
 #' someone reading your code to understand the design decisions. The other suggestions I've added as in-line comments are really
 #' just extensions to your existing extensions. For example, making the hint code more dynamic or adding pre-set levels of difficulty.
 #' None of these conversations are related to what was required for the code, but just cool extensions I think would make this game worth paying for ;)
+#' I also tried various bad user inputs and your defensive programming was set up really well. 
 #' The core functionality of the code is great and it was a pleasure to review this code. Thank you!
 
 
